@@ -1,0 +1,23 @@
+git commands:
+**************
+
+commands to push code to remote repo:
+--------------------------------------
+
+git init - this command initializes git repo 
+
+git add filename - to add untracked files to tracked files(staging area)
+
+git commit -m "msg"
+
+git remote add origin url 
+
+git push -u origin master
+
+command to clone repo:
+----------------------
+
+git clone url 
+
+
+http://vpaste.net/alt56
